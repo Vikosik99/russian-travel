@@ -1,0 +1,8 @@
+.footer {
+    outline: 2px solid green;
+    margin: 0 48px;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}

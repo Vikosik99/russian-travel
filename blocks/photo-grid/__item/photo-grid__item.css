@@ -1,0 +1,8 @@
+.photo-grid__item {
+    max-width: 284px;
+    max-height: 213px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 2px solid green;
+}

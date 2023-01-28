@@ -1,0 +1,13 @@
+.place {
+    width: 100%;
+    max-height: 660px;
+    row-gap: 48px;
+    column-gap: 40px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: repeat(2, auto);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 2px solid green;
+}

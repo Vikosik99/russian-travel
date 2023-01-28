@@ -1,0 +1,11 @@
+.place__paragraphs {
+    display: flex;
+    flex-direction: column;
+    grid-column: 2/2;
+    grid-row: 2/2;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 26px;
+    outline: 2px solid green;
+}

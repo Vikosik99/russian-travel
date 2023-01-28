@@ -1,0 +1,5 @@
+.intro__line {
+    outline: 2px solid green;
+    display: flex;
+    gap: 3px;
+}
