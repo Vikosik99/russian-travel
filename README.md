@@ -8,3 +8,7 @@ ___
 ## Список импользуемых технологий:
 - HTML
 - CSS
+
+______
+## Ссылка проекта на GitHub:
+    https://vikosik99.github.io/russian-travel/
