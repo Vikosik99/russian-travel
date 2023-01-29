@@ -1,18 +1,86 @@
 .cover {
-    background: url("../../images/cover-trains.jpg");
-    background-size: cover;
-    max-width: 1184px;
-    height: 740px;
-    margin: 0 48px 92px;
-    padding: 0;
-    box-sizing: border-box;
+  background: url("../../images/cover-trains.jpg");
+  background-size: cover;
+  max-width: 1184px;
+  height: 740px;
+  margin: 0 48px 92px;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .cover:before {
-    content: "";
-    position: absolute;
-    background: #2A2C2F;
-    opacity: 0.8;
-    width: 1184px;
-    height: 740px;
+  content: "";
+  position: absolute;
+  background: #2a2c2f;
+  opacity: 0.8;
+  width: 1184px;
+  height: 740px;
+  box-sizing: border-box;
+}
+
+/*1113*/
+
+@media screen and (max-width: 1113px) {
+  .cover {
+    width: 1024px;
+    height: 640px;
+    margin: 0 0 92px;
+  }
+  .cover:before {
+    width: 1024px;
+    height: 640px;
+  }
+}
+
+/*1060*/
+
+@media screen and (max-width: 1060px) {
+  .cover {
+    width: 100%;
+  }
+  .cover:before {
+    max-width: 100%;
+  }
+}
+
+/*768*/
+
+@media screen and (max-width: 768px) {
+  .cover {
+    width: 768px;
+    height: 480px;
+    margin-bottom: 88px;
+  }
+  .cover:before {
+    width: 768px;
+    height: 480px;
+  }
+}
+
+/*350*/
+
+@media screen and (max-width: 350px) {
+  .cover {
+    width: 320px;
+    height: 200px;
+    margin-bottom: 64px;
+  }
+  .cover:before {
+    width: 320px;
+    height: 200px;
+  }
+}
+
+/*320*/
+
+@media screen and (max-width: 320px) {
+  .cover {
+    width: 320px;
+    height: 200px;
+    margin-bottom: 64px;
+  }
+  .cover:before {
+    width: 320px;
+    height: 200px;
+  }
 }

@@ -1,0 +1,10 @@
+.cover__block {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}

@@ -1,6 +1,41 @@
 .places {
-    display: grid;
-    margin: 0 148px 92px 148px;
-    gap: 80px;
-    outline: 2px solid green;
+  display: grid;
+  margin: 0 148px 92px 148px;
+  gap: 80px;
+}
+
+/*1113*/
+
+@media screen and (max-width: 1113px) {
+  .places {
+    margin: 0 48px 92px 48px;
+  }
+}
+
+/*768*/
+
+@media screen and (max-width: 768px) {
+  .places {
+    margin: 0 24px 90px;
+  }
+}
+
+/*350*/
+
+@media screen and (max-width: 350px) {
+  .places {
+    margin: 0 0 66px;
+    gap: 50px;
+    box-sizing: border-box;
+  }
+}
+
+/*320*/
+
+@media screen and (max-width: 320px) {
+  .places {
+    margin: 0 0 66px;
+    gap: 50px;
+    box-sizing: border-box;
+  }
 }

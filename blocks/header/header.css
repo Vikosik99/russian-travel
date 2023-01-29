@@ -1,6 +1,30 @@
 .header {
-    margin: 0 48px 56px;
-    display: flex;
-    justify-content: space-between;
-    box-sizing: border-box;
+  margin: 0 48px 56px;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+/*768*/
+
+@media screen and (max-width: 768px) {
+  .header {
+    margin: 0 24px 48px;
+  }
+}
+
+/*350*/
+
+@media screen and (max-width: 350px) {
+  .header {
+    margin: 0 0 48px;
+  }
+}
+
+/*320*/
+
+@media screen and (max-width: 320px) {
+  .header {
+    margin: 0 0 48px;
+  }
 }

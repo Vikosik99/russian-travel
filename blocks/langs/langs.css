@@ -1,0 +1,6 @@
+.langs {
+    display: flex;
+    gap: 18px;
+    align-items: flex-end;
+    box-sizing: border-box;
+}

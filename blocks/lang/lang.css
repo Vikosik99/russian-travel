@@ -1,0 +1,40 @@
+.lang {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: right;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+  box-sizing: border-box;
+}
+
+/*480*/
+
+@media screen and (max-width: 480px) {
+  .lang {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
+
+/*350*/
+
+@media screen and (max-width: 350px) {
+  .lang {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
+
+/*320*/
+
+@media screen and (max-width: 320px) {
+  .lang {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
