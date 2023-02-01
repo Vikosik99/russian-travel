@@ -1,3 +1,8 @@
 .cover__link {
     max-width: 560px;
 }
+
+@media screen and (max-width: 1050px) {
+    .cover__link {
+    max-width: none;
+    }}

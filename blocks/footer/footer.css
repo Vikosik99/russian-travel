@@ -4,6 +4,16 @@
   display: flex;
   justify-content: space-between;
   box-sizing: border-box;
+
+}
+
+/*1280*/
+
+@media screen and (min-width: 1280px){
+.footer {
+    max-width: 1184px;
+    width: 100%;
+}
 }
 
 /*768*/

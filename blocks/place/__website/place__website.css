@@ -22,7 +22,7 @@
 
 /*350*/
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 401px) {
   .place__website {
     grid-column: 1/1;
     grid-row: 2/2;

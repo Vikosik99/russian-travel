@@ -1,6 +1,7 @@
 .place {
   width: 100%;
-  max-height: 660px;
+  max-height: 100%;
+  max-width: 984px;
   row-gap: 48px;
   column-gap: 40px;
   display: grid;
@@ -42,7 +43,7 @@
 
 /*350*/
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 401px) {
   .place {
     grid-template-columns: 1fr;
     row-gap: 32px;

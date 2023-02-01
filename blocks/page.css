@@ -1,9 +1,18 @@
 .page {
     background: #2A2C2F;
-    justify-content: center;
     box-sizing: border-box;
     padding: 0;
     padding-top: 28px;
     padding-bottom: 24px;
-    margin: 0 auto 0;
+}
+
+/*1280*/
+
+@media screen and (min-width: 1280px) {
+.page {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
 }

@@ -7,7 +7,6 @@
   padding: 0;
   list-style: none;
   gap: 26px;
-  max-height: 100%;
 }
 
 /*660*/
@@ -24,7 +23,7 @@
 
 /*350*/
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 401px) {
   .place__paragraphs {
     grid-column: 1/1;
     grid-row: 4/4;
