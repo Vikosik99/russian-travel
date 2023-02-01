@@ -40,29 +40,3 @@
     margin: 0;
   }
 }
-
-/*350*/
-
-@media screen and (max-width: 401px) {
-  .place {
-    grid-template-columns: 1fr;
-    row-gap: 32px;
-    max-height: 100%;
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-  }
-}
-
-/*320*/
-
-@media screen and (max-width: 320px) {
-  .place {
-    grid-template-columns: 1fr;
-    row-gap: 32px;
-    max-height: 100%;
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-  }
-}

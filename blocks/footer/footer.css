@@ -4,16 +4,15 @@
   display: flex;
   justify-content: space-between;
   box-sizing: border-box;
-
 }
 
 /*1280*/
 
-@media screen and (min-width: 1280px){
-.footer {
+@media screen and (min-width: 1280px) {
+  .footer {
     max-width: 1184px;
     width: 100%;
-}
+  }
 }
 
 /*768*/
@@ -38,16 +37,6 @@
 /*350*/
 
 @media screen and (max-width: 350px) {
-  .footer {
-    flex-direction: column;
-    gap: 48px;
-    margin-left: 16px;
-  }
-}
-
-/*320*/
-
-@media screen and (max-width: 320px) {
   .footer {
     flex-direction: column;
     gap: 48px;

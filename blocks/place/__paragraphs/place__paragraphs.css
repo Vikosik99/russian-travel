@@ -20,27 +20,3 @@
     padding: 0;
   }
 }
-
-/*350*/
-
-@media screen and (max-width: 401px) {
-  .place__paragraphs {
-    grid-column: 1/1;
-    grid-row: 4/4;
-    width: 288px;
-    margin: 0 16px 0;
-    padding: 0;
-  }
-}
-
-/*320*/
-
-@media screen and (max-width: 320px) {
-  .place__paragraphs {
-    grid-column: 1/1;
-    grid-row: 4/4;
-    width: 288px;
-    margin: 0 16px 0;
-    padding: 0;
-  }
-}

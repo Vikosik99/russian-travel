@@ -24,27 +24,9 @@
   }
 }
 
-/*768*/
-
-@media screen and (max-width: 768px) {
-  .photo-grid__item {
-    max-width: 352px;
-    max-height: 264px;
-  }
-}
-
-/*350*/
+/*404*/
 
 @media screen and (max-width: 404px) {
-  .photo-grid__item {
-    max-width: 288px;
-    max-height: 216px;
-  }
-}
-
-/*320*/
-
-@media screen and (max-width: 320px) {
   .photo-grid__item {
     max-width: 288px;
     max-height: 216px;

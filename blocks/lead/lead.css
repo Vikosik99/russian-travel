@@ -7,16 +7,6 @@
   box-sizing: border-box;
 }
 
-/*1305*/
-
-@media screen and (min-width: 350px) {
-  .lead {
-    margin: 0 48px 0;
-  }
-}
-
-
-
 /*1113*/
 
 @media screen and (max-width: 1113px) {
@@ -25,25 +15,9 @@
   }
 }
 
-/*1024*/
-
-@media screen and (max-width: 1024px) {
-  .lead {
-    margin: 0 48px 0;
-  }
-}
-
 /*768*/
 
 @media screen and (max-width: 768px) {
-  .lead {
-    margin:0;
-  }
-}
-
-/*350*/
-
-@media screen and (max-width: 350px) {
   .lead {
     margin: 0;
   }

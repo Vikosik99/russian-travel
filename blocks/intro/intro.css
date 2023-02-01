@@ -26,11 +26,3 @@
     margin: 64px 16px 64px;
   }
 }
-
-/*320*/
-
-@media screen and (max-width: 320px) {
-  .intro {
-    margin: 64px 16px 64px;
-  }
-}

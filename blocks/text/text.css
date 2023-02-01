@@ -18,11 +18,3 @@
     max-height: 100%;
   }
 }
-
-/*320*/
-
-@media screen and (max-width: 320px) {
-  .text {
-    max-height: 100%;
-  }
-}

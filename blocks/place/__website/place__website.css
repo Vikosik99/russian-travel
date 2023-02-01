@@ -19,23 +19,3 @@
     margin: 0 16px 0;
   }
 }
-
-/*350*/
-
-@media screen and (max-width: 401px) {
-  .place__website {
-    grid-column: 1/1;
-    grid-row: 2/2;
-    margin: 0 16px 0;
-  }
-}
-
-/*320*/
-
-@media screen and (max-width: 320px) {
-  .place__website {
-    grid-column: 1/1;
-    grid-row: 2/2;
-    margin: 0 16px 0;
-  }
-}

@@ -12,21 +12,3 @@
     height: 42px;
   }
 }
-
-/*350*/
-
-@media screen and (max-width: 350px) {
-  .logo {
-    width: 142px;
-    height: 42px;
-  }
-}
-
-/*320*/
-
-@media screen and (max-width: 320px) {
-  .logo {
-    width: 142px;
-    height: 42px;
-  }
-}

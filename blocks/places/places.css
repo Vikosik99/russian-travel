@@ -20,19 +20,9 @@
   }
 }
 
-/*350*/
+/*401*/
 
 @media screen and (max-width: 401px) {
-  .places {
-    margin: 0 0 66px;
-    gap: 50px;
-    box-sizing: border-box;
-  }
-}
-
-/*320*/
-
-@media screen and (max-width: 320px) {
   .places {
     margin: 0 0 66px;
     gap: 50px;
