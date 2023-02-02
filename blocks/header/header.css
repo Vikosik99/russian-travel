@@ -14,9 +14,9 @@
   }
 }
 
-/*768*/
+/*800*/
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
   .header {
     margin: 0 24px 48px;
   }

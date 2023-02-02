@@ -15,9 +15,9 @@
   }
 }
 
-/*768*/
+/*800*/
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
   .footer {
     margin: 0 24px;
   }
@@ -31,15 +31,5 @@
     gap: 48px;
     margin-left: 16px;
     align-items: flex-start;
-  }
-}
-
-/*350*/
-
-@media screen and (max-width: 350px) {
-  .footer {
-    flex-direction: column;
-    gap: 48px;
-    margin-left: 16px;
   }
 }
