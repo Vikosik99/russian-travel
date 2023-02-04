@@ -68,7 +68,6 @@
 
 @media screen and (max-width: 800px) {
   .cover {
-    min-width: 768px;
     min-height: 480px;
   }
   .cover:before {

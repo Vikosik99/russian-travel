@@ -7,6 +7,9 @@
   min-height: 740px;
   min-width: 1184px;
   box-sizing: border-box;
+  text-decoration: none;
+  color: #ffffff;
+  cursor: pointer;
 }
 
 /*1216*/

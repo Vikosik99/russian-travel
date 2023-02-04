@@ -3,3 +3,6 @@
   color: #ffffff;
   cursor: pointer;
 }
+.link:hover {
+  opacity: 0.8;
+}
