@@ -28,11 +28,11 @@
   }
 }
 
-/*660*/
+/*550*/
 
 @media screen and (max-width: 550px) {
   .place {
     grid-template-columns: 1fr;
     row-gap: 32px;
-}
+  }
 }

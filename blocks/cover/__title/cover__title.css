@@ -11,6 +11,7 @@
   padding: 0;
   z-index: 1;
 }
+/*620*/
 
 @media screen and (max-width: 620px) {
   .cover__title {
@@ -19,7 +20,7 @@
   }
 }
 
-/*350*/
+/*546*/
 
 @media screen and (max-width: 546px) {
   .cover__title {

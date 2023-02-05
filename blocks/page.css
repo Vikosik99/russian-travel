@@ -1,21 +1,23 @@
 .page {
-    background: #2A2C2F;
-    box-sizing: border-box;
-    padding: 0;
-    padding-top: 28px;
-    padding-bottom: 24px;
+  background: #2a2c2f;
+  box-sizing: border-box;
+  padding: 0;
+  padding-top: 28px;
+  padding-bottom: 24px;
 }
 
 /*1280*/
 
 @media screen and (min-width: 1350px) {
-.page {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-items: center;
+  .page {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+  }
 }
-}
+
+/*350*/
 
 @media screen and (max-width: 350px) {
   .page {

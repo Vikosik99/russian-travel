@@ -10,7 +10,7 @@
   max-width: 720px;
 }
 
-/*720*/
+/*740*/
 
 @media screen and (max-width: 740px) {
   .lead__title {
@@ -19,6 +19,8 @@
   }
 }
 
+/*592*/
+
 @media screen and (max-width: 592px) {
   .lead__title {
     margin-left: 10px;
@@ -26,7 +28,7 @@
   }
 }
 
-/*500*/
+/*510*/
 
 @media screen and (max-width: 510px) {
   .lead__title {
