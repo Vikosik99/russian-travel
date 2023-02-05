@@ -15,6 +15,13 @@
   }
 }
 
+@media screen and (max-width: 940px) {
+  .place__image {
+    width: 100%;
+    height: auto;
+  }
+}
+
 /*800*/
 
 @media screen and (max-width: 800px) {
@@ -28,15 +35,17 @@
 
 @media screen and (max-width: 660px) {
   .place__image {
-    grid-row: 3/3;
+    width: 100%;
+    height: auto;
   }
 }
 
 /*401*/
 
-@media screen and (max-width: 401px) {
+@media screen and (max-width: 550px) {
   .place__image {
     width: 320px;
     height: 320px;
+    grid-row: 3/3;
   }
 }

@@ -12,16 +12,25 @@
 
 /*720*/
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 740px) {
   .lead__subtitle {
     font-size: 20px;
     line-height: 24px;
   }
 }
 
+@media screen and (max-width: 592px) {
+  .lead__subtitle {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
+
+
 /*500*/
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
@@ -32,6 +41,6 @@
 
 @media screen and (max-width: 350px) {
   .lead__subtitle {
-    margin: 16px auto 40px;
+    margin: 16px 0 40px 16px;
   }
 }

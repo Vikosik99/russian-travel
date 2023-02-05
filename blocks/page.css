@@ -8,11 +8,17 @@
 
 /*1280*/
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1350px) {
 .page {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
 }
+}
+
+@media screen and (max-width: 350px) {
+  .page {
+    padding-top: 16px;
+  }
 }

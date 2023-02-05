@@ -8,13 +8,12 @@
   color: #ffffff;
 }
 
-/*420*/
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 510px){
   .intro__title {
-    font-size: 44px;
-    line-height: 46px;
-  }
+     font-size: 35px;
+  line-height: 39px;
+}
 }
 
 /*350*/

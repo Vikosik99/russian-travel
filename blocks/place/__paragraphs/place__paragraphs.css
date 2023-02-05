@@ -11,7 +11,7 @@
 
 /*660*/
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 550px) {
   .place__paragraphs {
     grid-column: 1/1;
     grid-row: 4/4;

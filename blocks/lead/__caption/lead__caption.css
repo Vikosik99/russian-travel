@@ -9,3 +9,19 @@
   color: #ffffff;
   margin: 8px 0 0 0;
 }
+
+
+@media screen and (max-width: 800px) {
+  .lead__caption {
+  margin: 8px 0 0 24px;
+
+   }
+}
+
+
+@media screen and (max-width: 350px) {
+  .lead__caption {
+  margin: 8px 0 0 16px;
+
+   }
+}

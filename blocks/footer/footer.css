@@ -20,12 +20,13 @@
 @media screen and (max-width: 800px) {
   .footer {
     margin: 0 24px;
+    gap: 20px;
   }
 }
 
 /*590*/
 
-@media screen and (max-width: 590px) {
+@media screen and (max-width: 640px) {
   .footer {
     flex-direction: column;
     gap: 48px;

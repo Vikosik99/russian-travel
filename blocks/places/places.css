@@ -2,6 +2,7 @@
   display: grid;
   margin: 0 148px 92px 148px;
   gap: 80px;
+  justify-content: center;
 }
 
 /*1113*/
