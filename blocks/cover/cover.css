@@ -4,7 +4,6 @@
   box-sizing: border-box;
   min-height: 740px;
   max-width: 1184px;
-  outline: solid 2px red;
 }
 
 /*1278*/
@@ -37,17 +36,16 @@
 @media screen and (max-width: 1052px) {
   .cover {
     min-width: 768px;
-    margin: 0;
-    margin-bottom: 88px;
+    margin: 0 0 88px;
   }
 }
 
-/*802*/
+/*804*/
 
-@media screen and (max-width: 802px) {
+@media screen and (max-width: 804px) {
   .cover {
     min-width: 600px;
-    min-height: 450px;
+    min-height: 480px;
   }
 }
 
@@ -59,7 +57,7 @@
   }
 }
 
-/*546*/
+/*546**/
 
 @media screen and (max-width: 546px) {
   .cover {
@@ -72,6 +70,6 @@
 @media screen and (max-width: 400px) {
   .cover {
     min-height: 200px;
-    margin-bottom: 64px;
+    margin: 0 0 64px;
   }
 }

@@ -3,6 +3,7 @@
   margin: 0 148px 92px 148px;
   gap: 80px;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 /*1113*/
@@ -27,6 +28,5 @@
   .places {
     margin: 0 0 66px;
     gap: 50px;
-    box-sizing: border-box;
   }
 }

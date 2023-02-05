@@ -7,9 +7,9 @@
   padding: 0;
 }
 
-/*1050*/
+/*1060*/
 
-@media screen and (max-width: 1050px) {
+@media screen and (max-width: 1060px) {
   .place__image {
     width: 440px;
     height: 440px;

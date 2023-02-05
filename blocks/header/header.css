@@ -27,6 +27,13 @@
 @media screen and (max-width: 350px) {
   .header {
     margin: 0 16px 48px;
+  }
+}
+
+/*320*/
+
+@media screen and (max-width: 320px) {
+  .header {
     width: 100%;
   }
 }
