@@ -1,7 +1,7 @@
 .link {
-  text-decoration: none;
   color: #ffffff;
   cursor: pointer;
+  text-underline-offset: 4px;
 }
 .link:hover {
   opacity: 0.8;

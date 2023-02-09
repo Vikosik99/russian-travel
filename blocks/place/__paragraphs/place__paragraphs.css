@@ -7,11 +7,28 @@
   padding: 0;
   list-style: none;
   gap: 26px;
+  min-width: 456px;
+}
+
+/*1023*/
+
+@media screen and (max-width: 1023px) {
+  .place__paragraphs {
+    min-width: 352px;
+  }
+}
+
+/*767*/
+
+@media screen and (max-width: 767px) {
+  .place__paragraphs {
+    min-width: 288px;
+  }
 }
 
 /*550*/
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 716px) {
   .place__paragraphs {
     grid-column: 1/1;
     grid-row: 4/4;
