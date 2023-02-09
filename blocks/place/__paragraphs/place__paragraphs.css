@@ -15,6 +15,7 @@
 @media screen and (max-width: 1023px) {
   .place__paragraphs {
     min-width: 352px;
+    gap: 25px;
   }
 }
 
@@ -26,7 +27,7 @@
   }
 }
 
-/*550*/
+/*716*/
 
 @media screen and (max-width: 716px) {
   .place__paragraphs {

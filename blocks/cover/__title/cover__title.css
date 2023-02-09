@@ -22,11 +22,19 @@
   }
 }
 
-/*546*/
+/*570*/
 
-@media screen and (max-width: 546px) {
+@media screen and (max-width: 570px) {
   .cover__title {
     font-size: 32px;
     line-height: 35px;
+  }
+}
+
+/*460*/
+
+@media screen and (max-width: 460px) {
+  .cover__title {
+  padding: 0 10px 0;
   }
 }
